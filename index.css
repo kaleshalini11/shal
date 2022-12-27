@@ -1,0 +1,5 @@
+body{
+    background-image: linear-gradient(blue,green);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
